@@ -57,10 +57,10 @@ ul.underground-station li {
   list-style: none outside none;
 }
 
-#Formation ul.underground-station li:before { border-color: #f0ad4e; background-color: #f0ad4e; }
-#Formation ul.underground-station li.current:before { background-color: white; }
-#Formation ul.underground-station li { border-left-color: #f0ad4e; }
-#Formation ul.underground-station li:last-child { border-color: transparent; }
+#Formations ul.underground-station li:before { border-color: #f0ad4e; background-color: #f0ad4e; }
+#Formations ul.underground-station li.current:before { background-color: white; }
+#Formations ul.underground-station li { border-left-color: #f0ad4e; }
+#Formations ul.underground-station li:last-child { border-color: transparent; }
 
 #Experiences ul.underground-station li:before { border-color: #5cb85c; background-color: #5cb85c; }
 #Experiences ul.underground-station li.current:before { background-color: white; }
