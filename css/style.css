@@ -9,10 +9,10 @@ header {
   text-align: center;
   background-color: #5bc0de;
 }
-header h1 {
-  margin: 0;
-  padding: 0;
-}
+  header h1 {
+    margin: 0;
+    padding: 0;
+  }
 
 .box {
   height: 100%;
@@ -22,10 +22,12 @@ header h1 {
   padding: 19px;
   margin: 5px;
 }
-
-.box h2 {
-  margin-top: 0;
-}
+  .box h2 {
+    margin-top: 0;
+  }
+  .box dd {
+    margin-bottom: 1em;
+  }
 
 .contact {
   text-align: center;
@@ -34,28 +36,26 @@ header h1 {
 ul.underground-station {
   padding-left: 20px;
 }
-
-ul.underground-station li:before {
-  left: -11px;
-  position: absolute;
-  content: "";
-  width: 18px;
-  height: 18px;
-  border-radius: 100%;
-  border-width: 1px;
-  border-style: solid;
-  background-color: white;
-}
-
-ul.underground-station li {
-  min-height: 20px;
-  padding-bottom: 10px;
-  padding-left: 20px;
-  border-left-width: 4px;
-  border-left-style: solid;
-  position: relative;
-  list-style: none outside none;
-}
+  ul.underground-station li:before {
+    left: -11px;
+    position: absolute;
+    content: "";
+    width: 18px;
+    height: 18px;
+    border-radius: 100%;
+    border-width: 1px;
+    border-style: solid;
+    background-color: white;
+  }
+  ul.underground-station li {
+    min-height: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    border-left-width: 4px;
+    border-left-style: solid;
+    position: relative;
+    list-style: none outside none;
+  }
 
 #Formations ul.underground-station li:before { border-color: #f0ad4e; background-color: #f0ad4e; }
 #Formations ul.underground-station li.current:before { background-color: white; }
