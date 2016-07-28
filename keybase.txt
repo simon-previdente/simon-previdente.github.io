@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/sim_previdente
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.simon-previdente.fr
+  * I am sim_previdente (https://keybase.io/sim_previdente) on keybase.
+  * I have a public key with fingerprint E5B4 93CF 2C7A 3F38 0006  C7FD 19C9 CB8B BFDB 3C2C
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120d9a3939044c1a5682f37df16fb91df7d57ad17a9cb8a0b33e774dcb2591bec220a",
+            "fingerprint": "e5b493cf2c7a3f380006c7fd19c9cb8bbfdb3c2c",
+            "host": "keybase.io",
+            "key_id": "19c9cb8bbfdb3c2c",
+            "kid": "0101746b1ab6dc9e2cc6efe03c89c5bce4a934040974737a49dba413b5207ca366340a",
+            "uid": "6477ab1be0850b7d53a2427a84a93019",
+            "username": "sim_previdente"
+        },
+        "service": {
+            "hostname": "www.simon-previdente.fr",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1469697482,
+    "expire_in": 157680000,
+    "prev": "827e2eebcb4e2b204484e6f97ddf8870cdef67d2dd231e1f87403aa76cf73826",
+    "seqno": 19,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFtkltoFUcYx09OmohK8IYUQWxcAirGODszO7MTQvQh+GAqtCJeMYe57XE17h73
+bHKMwVKlqQlKqw/2oqjQIoramlKsSDGiebGGejm2FWy9UGxL1Hqrlga16exB8aVP
+w8z3/37z/38z26vKU+mySd8NbD31c0Nt2cCgSC359PsLnZYIVYdV32mt0aVFtyqd
+jzNrfGXVW8CGQDGOGGIAY2lzh7jQQ1R5NvEEs5VHlUO5silnUrgcCIQ0pVhJAR1m
+Cy0hBNyqtTw/yOooF/lBbLDaEZgh6UFJOfKQCwAgknrKZjLBCOEpgSSUpnFVmE86
+jDnB87rOD82Z2WRK9v5H/9I3sCkmwuaCKMk0lJJoTwMkXSYdITXmDGGAAaOYIsox
+U4JjGwkHAio5IsRUE99tJRzBlHJh4gDXAcJERhxiSLmbYIDNEmFeRwFfq40676/N
+5CLd7isdxNraWGuZWrsvdTLeJM8LXaFQqDPaMJj1Sl3nRQaWi8I4lGGrEa2K41x9
+wog7cqUmLTIvcBnhB8rM1TS06yjvh4FVbxuljP2Eb2PCiMnnwlpLr8/5kc74icKh
+JBk48JN7dLthupBqqLWQAmsooHlpF2viMaqU57oUSKU9QhVUCiJb255LMUCcUyI9
+ilxIrCThuiA0cGaM8mxpCNmAx22RyT+qp2zya6mydKqyIp18udSokWNf/sPTR0cM
+NzWlN1RkjzdvLs5rGZo9UOgfHfdtu1f87Ldjw19smXnxXPOMO48vfrJixfOrUzb8
+0Xwsd62hZupfXSe+aTuztO/H9SceVr1TvPlPcPvt7Klbr9/o/nb1oomt74a4JWNV
+Vpwvfnz//etdz4I3x/SURw9Pho8Gi7f2Vi74Yf7K6tGLW4fu/pTeVTPj3LWv5m0Z
++eTLux+dnfRL10K/aQr4PPvr/c2pHeevPOjrn37ngzmHDh9pGG7s7To8f8LvHzpb
++1eumziBuoWW6m1Px10aXHj84LK/Gw9035wafl2xfPwbe/i/NeVvkbrive6q8e9N
+Czum/flgd2/uUU/j3DkbN+3btGho5+Lq3su79zudLX7Hfw==
+=yvYa
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sim_previdente
+
+==================================================================
